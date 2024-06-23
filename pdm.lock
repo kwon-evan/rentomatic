@@ -2,10 +2,10 @@
 # It is not intended for manual editing.
 
 [metadata]
-groups = ["default", "tox", "test"]
+groups = ["default", "test"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.1"
-content_hash = "sha256:0fc9e214b251ec112ea6c25a78370a3fba7ead10e7060bafd70a9646777eccb9"
+content_hash = "sha256:cfd8905623c2fae43b39752a2d9331cd12b223635aff1212918c62197a001aec"
 
 [[package]]
 name = "cachetools"
